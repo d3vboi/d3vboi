@@ -11,8 +11,7 @@
 <br>
 
 - A passionate Self-taught developer
-- Busy being a nerd in my free time
-- Currently learning Web Development by Self
+- Busy being a nerd
 - Open for suggestions or ideas
 
 <br><br>
